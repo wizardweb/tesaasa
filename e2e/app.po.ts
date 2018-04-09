@@ -8,4 +8,4 @@ export class AngularAdminLTEPage {
   getParagraphText() {
     return element(by.css('app-root h1')).getText();
   }
-}
+}kaley
